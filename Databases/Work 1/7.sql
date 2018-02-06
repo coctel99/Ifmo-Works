@@ -1,2 +1,0 @@
-SELECT Title
-FROM HumanResources.Employee
