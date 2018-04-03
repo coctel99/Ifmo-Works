@@ -1,8 +1,5 @@
-Programming/OldWorks/.vs/
-Programming/OldWorks/Debug
-Programming/OldWorks/**/Debug
 Programming/Works/cmake-build-debug
 Programming/Works/.idea
-Databases/.idea
-Informatics/**/.idea
+Programming/**/cmake-build-debug
+Programming/**/.idea/
 ~*
